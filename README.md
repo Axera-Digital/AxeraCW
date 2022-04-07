@@ -5,7 +5,11 @@ This repository features an external trainer base for Call of Duty: Black Ops Co
 [ COMING SOON ]
 
 ## Preview
-[ COMING SOON ]
+<details>
+  <summary>Screenshots</summary>
+  
+  
+</details>
 
 ## NOTE
 [ COMING SOON ]
